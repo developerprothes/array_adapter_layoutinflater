@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Array Adapter With Layoutinflater</string>
+
+    <string-array name="countryName">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Australia</item>
+        <item>Brazil</item>
+        <item>Canada</item>
+        <item>Nepal</item>
+        <item>Sreelanka</item>
+        <item>Japan</item>
+        <item>U.S.A</item>
+        <item>Russia</item>
+        <item>Argentina</item>
+        <item>Vutan</item>
+        <item>Itali</item>
+        <item>France</item>
+        <item>Zarmany</item>
+        <item>China</item>
+        <item>Vatican City</item>
+        <item>England</item>
+    </string-array>
+</resources>
